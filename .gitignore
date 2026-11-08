@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.db
+*.db-wal
+*.db-shm
+data/
+logs/
+.pytest_cache/
+*.egg-info/
+logs_test/
+*.docx
+*.xlsx
+.env.*
+!.env.example
